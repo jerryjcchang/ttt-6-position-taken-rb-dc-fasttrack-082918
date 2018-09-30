@@ -3,3 +3,5 @@
 position_taken?()
     if board[index] == "" || board[index] == " "
       return false
+    else
+      return true
